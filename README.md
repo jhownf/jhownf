@@ -37,3 +37,18 @@
 <div align="justify">
 <i><b>Olá</b> :wave:, me chamo <code>JONATHAN</code>, tenho 21 anos, moro em BH e estou começando a  programar agora. Atualmente sou <code>Estudante</code> no curso de  Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i> :man_teacher:.<br />
 </div>
+
+
+
+-----
+
+<div>
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+ 
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mysql.png"/></a></code>
+&nbsp; 
+<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dbeaver.png"/></a></code>
+&nbsp; 
